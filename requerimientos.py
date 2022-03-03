@@ -2,8 +2,12 @@ from PyQt5 import QtWidgets,uic
 #iniciar la aplicacion
 app= QtWidgets.QApplication([])
 
-#Caragar Los archivos .uic
+#Cargar Los archivos .uic
 login= uic.loadUi("ViewLogin.ui")
+
+#desativar boton activar
+login.btnIniciarSesion.setEnabled(False)
+
 
 #ejecutable
 login.show()
