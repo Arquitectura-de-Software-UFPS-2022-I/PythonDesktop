@@ -26,7 +26,7 @@ El Presente Proyecto open-source permite firmar un documento PDF, mediante la so
 
 ![](https://github.com/Arquitectura-de-Software-UFPS-2022-I/PythonDesktop/blob/526c0240a9a9fcbc599e87010a5bbc7ced8b98b7/imagenes/View%20Firma.jpeg)
 
-##Construido con
+## Construido con
 
 1. [Python](https://www.python.org/downloads/ "Python") 3.10.2
 2. [QT Designer](https://build-system.fman.io/qt-designer-download "QT Designer")
