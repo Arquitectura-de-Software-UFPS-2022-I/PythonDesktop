@@ -11,16 +11,16 @@ El Presente Proyecto  open-source permite firmar un documento PDF, mediante la s
 
 ## Estructura del Proyecto
 
+[Estructura.png](https://drive.google.com/file/d/1C0bpvbm72AaGYmVvDJp2HYYGjjDk2s3h/view?usp=sharing "Estructura")
+### View
+1. [Vista Registro.png](https://drive.google.com/file/d/1rlFoG3JBsDCiCTuPeg1wrscOk_Vr9N1y/view?usp=sharing "Vista Registro")
+1. [Vista Firmar.png](https://drive.google.com/file/d/1HcREKE-9J-5gmj_Cn2UQQv46oxw4Fpzd/view?usp=sharing "Vista Firmar")
 
-##Construido con 
+
+##Construido con
 
 1) [Python](https://www.python.org/downloads/ "Python") 3.10.2
 2) [QT Designer](https://build-system.fman.io/qt-designer-download "QT Designer")
 
-
-
-# Editor.md
-
-![Estructura](https://drive.google.com/file/d/1C0bpvbm72AaGYmVvDJp2HYYGjjDk2s3h/view?usp=sharing)
-
-
+## Autores
+- Jose Gabriel Jaimes Rodriguez - [https://github.com/josegabriel-jr](https://github.com/josegabriel-jr "https://github.com/josegabriel-jr")
