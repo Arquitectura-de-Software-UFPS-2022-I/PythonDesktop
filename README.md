@@ -12,7 +12,7 @@ El Presente Proyecto  open-source permite firmar un documento PDF, mediante la s
 ## Estructura del Proyecto
 
 [Estructura.png](https://drive.google.com/file/d/1C0bpvbm72AaGYmVvDJp2HYYGjjDk2s3h/view?usp=sharing "Estructura")
-### View
+## View
 1. [Vista Registro.png](https://drive.google.com/file/d/1rlFoG3JBsDCiCTuPeg1wrscOk_Vr9N1y/view?usp=sharing "Vista Registro")
 1. [Vista Firmar.png](https://drive.google.com/file/d/1HcREKE-9J-5gmj_Cn2UQQv46oxw4Fpzd/view?usp=sharing "Vista Firmar")
 
@@ -24,3 +24,4 @@ El Presente Proyecto  open-source permite firmar un documento PDF, mediante la s
 
 ## Autores
 - Jose Gabriel Jaimes Rodriguez - [https://github.com/josegabriel-jr](https://github.com/josegabriel-jr "https://github.com/josegabriel-jr")
+- Andry Yulieth Serrano Parada - [https://github.com/AnyuSerrano](https://github.com/AnyuSerrano "https://github.com/AnyuSerrano")
