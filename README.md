@@ -25,3 +25,5 @@ El Presente Proyecto  open-source permite firmar un documento PDF, mediante la s
 ## Autores
 - Jose Gabriel Jaimes Rodriguez - [https://github.com/josegabriel-jr](https://github.com/josegabriel-jr "https://github.com/josegabriel-jr")
 - Andry Yulieth Serrano Parada - [https://github.com/AnyuSerrano](https://github.com/AnyuSerrano "https://github.com/AnyuSerrano")
+- Daniel Gerardino - [https://github.com/Danielrodriguez4](https://github.com/Danielrodriguez4 "https://github.com/Danielrodriguez4")
+- Brayan Espitia - [https://github.com/brayanespitia](https://github.com/brayanespitia "https://github.com/brayanespitia")
